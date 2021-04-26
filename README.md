@@ -8,8 +8,8 @@ this is specifically for my website design class
      h1 {color: blue;}
   <body>
     head content
-    <font size="25">This food is delicious you son of a Beach.</font>
-        <h1>This food is delicious you son of a Beach. </h1>
+    <font size="25">This food is delicious you son of a Beach. Order it on Your "Cat Girl Themed" Computer. </font>
+        <h1>This food is delicious you son of a Beach. Order it on Your "Cat Girl Themed" Computer. </h1>
     </body>↩
 </style>↩
 </head>↩
@@ -35,6 +35,19 @@ this is specifically for my website design class
  
 ![tablet](https://user-images.githubusercontent.com/81649383/116021207-9aa86180-a5fc-11eb-8201-89e0ef0132d2.png)
 
+'<!DOCTYPE html>↩
+ <html lang="En">↩
+    <Title><head><Style>body {backgroundcolor;
+      powderblue:}
+     h1 {color: blue;}
+  <body>
+    head content
+    <font size="25">This is for your crappy cellphone. Made by Third world slave labor!.</font>
+        <h1>This is for your crappy cellphone. Made by Third world slave labor!. </h1>
+    </body>↩
+</style>↩
+</head>↩
+</title>'
 
-This is for your crappy cellphone. Made by Third world slave labor, enjoy your privilige you seit-capitalist pig!
-![website cover](https://user-images.githubusercontent.com/81649383/116021246-aac04100-a5fc-11eb-8f56-193c0739957f.png)
+![mobile](https://user-images.githubusercontent.com/81649383/116027742-7eabbc80-a60a-11eb-9d06-a1163dc49c44.png)
+
